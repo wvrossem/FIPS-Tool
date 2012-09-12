@@ -1,6 +1,10 @@
+# Folders #
+backup/
+
+# Java #
 *.class
 
 # Package Files #
-*.jar
+#*.jar#
 *.war
 *.ear
