@@ -21,15 +21,15 @@ This is a Java tool that facilitates the uploading data for the IPS and testing 
 
 ##### Testing algorithms on single measurements in the tool
 
-![Single test in the tool](https://dl.dropbox.com/s/saw0co9r433wv5l/ipstool1.png "Single Test")
+![Single test in the tool](https://dl.dropbox.com/s/m86osw4sf1iu57d/ipstool1.png "Single Test")
 
 ##### Uploading data from the tool
 
-![Data Upload in the tool](https://dl.dropbox.com/s/08xk9aj71syr2pi/ipstool2.png "Data Upload")
+![Data Upload in the tool](https://dl.dropbox.com/s/jhmytcp1lpmlo7c/ipstool2.png "Data Upload")
 
 ##### Doing a batch test in the tool
 
-![Batch testing in the tool](https://dl.dropbox.com/s/k07mgh0zh8r3kz5/ipstool3.png "Batch Testing")
+![Batch testing in the tool](https://dl.dropbox.com/s/lnc8eazaqy2vdl4/ipstool3.png "Batch Testing")
 
 License
 -------
